@@ -29,7 +29,7 @@ def ex_2():
 
 
 def new_func():
-    pass
+    print('va urma')
 
 
 # ex_1()
