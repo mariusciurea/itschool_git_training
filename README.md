@@ -1,0 +1,1 @@
+detalii despre proiect
