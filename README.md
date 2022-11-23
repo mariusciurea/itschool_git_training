@@ -1,1 +1,2 @@
-detalii despre proiect
+# detalii despre proiect
+---
